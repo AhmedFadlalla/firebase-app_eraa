@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>803718791094-tg795q4i2hg0kqoq18gdlr66kbll5s6l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.803718791094-tg795q4i2hg0kqoq18gdlr66kbll5s6l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>803718791094-74beruepqct3luj3a2p2tjotbe4sf2ik.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT2PVosnTc591Vr0bFNRN0dIEqy1xvy4Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>803718791094</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eraaFirebaseApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>eraa-app-7ca6c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eraa-app-7ca6c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:803718791094:ios:f0fdefb88a900e0d6d8b17</string>
+</dict>
+</plist>
